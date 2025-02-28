@@ -23,11 +23,11 @@
 
     In order to answer this question, you need to complete the following table by filling out blanks with the measurement results corresponding to each instance type.
 
-    | Size        | CPU performance | Memory performance |
-    | ----------- | --------------- | ------------------ |
-    | `t2.micro`  |    3596/3078    |     10581.71       |
-    | `t2.medium` |    9764/5833    |     19064.6        |
-    | `c5d.large` |    7437/4904    |     13385.16       |
+    | Size        | CPU performance (MIPS) | Memory performance (MB/s) |
+    | ----------- | ---------------------- | ------------------------- |
+    | `t2.micro`  | 3596/3078              | 10581.71                  |
+    | `t2.medium` | 9764/5833              | 19064.6                   |
+    | `c5d.large` | 7437/4904              | 13385.16                  |
 
     > Region: US East (N. Virginia). Use `Ubuntu Server 22.04 LTS (HVM)` as AMI.
 
